@@ -1,15 +1,15 @@
 [
   {
     "ParameterKey": "InstanceType",
-    "ParameterValue": "m1.medium"
+    "ParameterValue": "t2.micro"
   }, 
   {
     "ParameterKey": "KeyName",
-    "ParameterValue": "dfad"
+    "ParameterValue": "Assign_hanumanth"
   },
   {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-12345"
+    "ParameterValue": "ami-775e4f16"
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
