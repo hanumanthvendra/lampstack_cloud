@@ -8,12 +8,12 @@
     "ParameterValue": "Assign_hanumanth"
   },
   {
+  "ParameterKey": "InstanceSecurityGroup",
+      "ParameterValue": "sg-12345"
+   },   
+  {
     "ParameterKey": "ImageID",
     "ParameterValue": "ami-775e4f16"
-  },
-  {
-    "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-12345"
   },
   {
     "ParameterKey": "SubnetId",
