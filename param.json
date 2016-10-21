@@ -9,7 +9,7 @@
   },
   {
   "ParameterKey": "InstanceSecurityGroup",
-      "ParameterValue": "sg-12345"
+      "ParameterValue": "sg-123456"
    },   
   {
     "ParameterKey": "ImageID",
@@ -17,7 +17,7 @@
   },
   {
     "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-12345"
+    "ParameterValue": "subnet-123456"
   }
   
 ]
